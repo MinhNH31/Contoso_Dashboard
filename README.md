@@ -12,11 +12,15 @@ Objectives:
   2. Identify changes in consumer trend and top growing products sold
 
 ## PowerBI Dashboard
-Model data in a star-schema
-Develope a strategic comparing revenue YoY dashboard.
+Model data in a star-schema.
+
+Develop a strategic comparing revenue YoY dashboard.
+
 Create analytics dashboard looking into products.
 
 ## Presentation
-Limit to short 10 slides
+Limit to short 10 slides.
+
 Identify winning and losing products.
+
 Provide reccomendation on current and future stategies.
